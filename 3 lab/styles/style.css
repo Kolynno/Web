@@ -1,0 +1,91 @@
+body {
+    background-color: #efefef;
+    font-family: "Arial Narrow", sans-serif;
+}
+
+.buttonsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 200px;
+    background-color: #eddaff;
+    border:2px black solid;
+    border-radius: 10px;
+}
+
+.createTable {
+    height: 180px;
+    width: 500px;
+    background-color: #c9dce9;
+    border: 1px black solid;
+    border-radius: 30px;
+}
+
+.addLine {
+    height: 180px;
+    width: 500px;
+    background-color: #dfb4ed;
+    border: 1px black solid;
+    border-radius: 30px;
+}
+
+.deleteLine {
+    height: 180px;
+    width: 500px;
+    background-color: #aee9b5;
+    border: 1px black solid;
+    border-radius: 30px;
+}
+
+.createTable h1, .deleteLine h1, .addLine h1 {
+    text-align: center;
+}
+
+.buttonsToDo {
+    margin: 0 25%;
+    width: 50%;
+    height: 50px;
+    border: 1px black solid;
+    border-radius: 50px;
+}
+
+.buttonsToDo:hover {
+    width:65%;
+    margin: 0 18%;
+    background-color: #ffe2a8;
+}
+
+.tableContainer {
+    background-color: #efe5e5;
+    width: 1000px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    margin:10px auto;
+}
+
+.textDeleteLine {
+    margin: 0 30% 10px 30%;
+    text-align: center;
+    min-width: 40%;
+    border: 1px black solid;
+    border-radius: 50px;
+}
+
+/*Для созданной таблицы*/
+
+.createdTable {
+    background-color: #8c9aff;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.columnEven {
+    text-align: center;
+    background-color:#eceefb;
+}
+
+.columnOdd {
+    text-align: center;
+    background-color:#ccccff;
+}

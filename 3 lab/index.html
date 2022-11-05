@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <link href="styles/style.css" rel="stylesheet">
+    <script src="scripts/script.js"></script>
+    <title>Lab 3</title>
+</head>
+<body>
+    <div class="buttonsContainer">
+        <div class="createTable">
+                <h1>Создать таблицу</h1>
+                <input class="buttonsToDo" type="button" onclick="createTable()" value="Создать">
+        </div>
+        <div class="addLine">
+                <h1>Добавить строку</h1>
+                 <input disabled class="buttonsToDo" type="button" onclick="addLine()" value="Добавить" id="addLine">
+
+        </div>
+        <div class="deleteLine">
+                <h1>Удалить строку</h1>
+                <input  type="text" class="textDeleteLine" placeholder="Номер строки для удаления" id="deleteLineText">
+                <input disabled  class="buttonsToDo" type="button" onclick="deleteLine()" value="Удалить" id="deleteLine">
+        </div>
+    </div>
+    <div class="tableContainer" id="placeForTable">
+        <h1 id="tableContainerText" style="margin: 10px auto">Место для таблицы</h1>
+    </div>
+</body>
+</html>
