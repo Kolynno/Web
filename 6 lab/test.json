@@ -1,0 +1,58 @@
+[
+{
+    "id":1,
+    "name":"Красивый букет",
+    "price": 2000,
+    "description":"Содержит в себе 5 роз и 7 фиалок разных цветов. Ароматный запах и сочный цвет придают элегантность букету",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":2,
+    "name":"Яркий день",
+    "price": 2500,
+    "description":"Содержит в себе 3 роз и 15 фиалок разных цветов",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":3,
+    "name":"Новый год 2017",
+    "price": 3500,
+    "description":"Отличный букет на 2017 год",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":4,
+    "name":"Любимая",
+    "price": 4990,
+    "description":"Наш лучший букет для вас",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":5,
+    "name":"Королевский букет",
+    "price": 1500,
+    "description":"7 роз и 9 ромашек",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":6,
+    "name":"Новочеркасск",
+    "price": 300,
+    "description":"1 роза",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":7,
+    "name":"Собачье счастье",
+    "price": 500,
+    "description":"11 одуванчиков",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+},
+{
+    "id":8,
+    "name":"Маяковскый",
+    "price": 1500,
+    "description":"Я волком бы выгрыз бюрократизм. К букетам почтения нету. К любым чертям с матерями катись любая цветочка. Но этот…[букет Маяковскый]",
+    "src": "https://www.6665666.ru/sites/default/files/inline/images/state43-1.jpg"
+}
+]
